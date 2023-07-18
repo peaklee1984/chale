@@ -14,7 +14,7 @@ services:
     #   - Go_Proxy_BingAI_SOCKS_URL=192.168.0.88:1070
     #   - Go_Proxy_BingAI_SOCKS_USER=robrehao@dingtalk.com
     #   - Go_Proxy_BingAI_SOCKS_PWD=841103
-    #   - Go_Proxy_BingAI_USER_TOKEN_1=xxx
+    #   - Go_Proxy_BingAI_USER_TOKEN_1=1K4MdQuQOYR7h0sUP1TYY1ZycxPQpIcvBCJY-EXTeLW9RbePdPSRNCoA_DEwwMn5khwkkrxWdpTbGu7cosv0OVnOfcjYXf8kk4EcTqbGhn-JhmsAqwdE3S5h8fLkm9gsM1BPZKC7KUIqjABeQHChTvloUcvF0MMe2rxQWOzQiWo6zdPHuK1dE_3nzLOf58ZgStkdHbLS1lFk7pp_UtaSXs6MFnoxbbC5_pypIqqE_WOo
     #   - Go_Proxy_BingAI_USER_TOKEN_2=xxx
   
 #   go-proxy-bingai:
